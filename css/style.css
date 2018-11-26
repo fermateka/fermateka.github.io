@@ -1,2 +1,7 @@
-  p { color:white;
-      background-color:gray; }
+ /*стиль всех параграфов*/
+ p { color: white;
+      background-color: gray; }
+/*стиль элемента id=cool*/
+#cool {color:red;}
+/*стиль элементов класса big*/
+.big {font-size: 200%;}
