@@ -1,6 +1,8 @@
  /*оформление всей страницы*/
  body {font-family:arial;
        font-size:16px;
+	   font-style:normal;
+	   font-weight:400;
       }
  /*стиль всех параграфов*/
  p { color: white;
@@ -8,4 +10,4 @@
 /*стиль элемента id=cool*/
 #cool {color:red;}
 /*стиль элементов класса big*/
-.big {font-size: 200%;}
+p.big {font-size: 200%;}
