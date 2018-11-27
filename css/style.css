@@ -1,3 +1,7 @@
+ /*оформление всей страницы*/
+ body {font-family:arial;
+       font-size:16px;
+      }
  /*стиль всех параграфов*/
  p { color: white;
       background-color: gray; }
