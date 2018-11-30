@@ -3,11 +3,24 @@
        font-size:16px;
 	   font-style:normal;
 	   font-weight:400;
+	   color:Black;
+	   text-align:center;
       }
  /*стиль всех параграфов*/
  p { color: white;
       background-color: gray; }
 /*стиль элемента id=cool*/
 #cool {color:red;}
+#div1 {
+  border: 5px solid green;
+  width:100%;
+  height:100;
+  max-width:500;
+}
 /*стиль элементов класса big*/
 p.big {font-size: 200%;}
+p.border {padding: 10px;
+        /*border: 5px solid Black; Пример*/
+		  border-style:solid;
+		  border-width:5px;
+		  border-color:Red;}
