@@ -7,9 +7,14 @@
 	   text-align:center;
       }
 /*стиль элемента id=cool*/
-#price {color:green;
-font-weight:600;
-}
+.price {color:green;
+        font-weight:600;}
+		
+#prt {width:90%;
+      border-color:black;
+      background-color:White;
+	  align: center;
+	  }
 
 /*стиль элементов класса big*/
 p.big {font-size: 200%;}
